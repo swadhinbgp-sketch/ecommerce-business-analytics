@@ -1,0 +1,337 @@
+product_id,product_name,category,subcategory,selling_price,cost_price
+PROD0001,Smartphone 1,Electronics,Mobile,52225.14,36376.42
+PROD0002,Smartphone 2,Electronics,Mobile,68862.28,40446.46
+PROD0003,Smartphone 3,Electronics,Mobile,47619.54,27655.4
+PROD0004,Smartphone 4,Electronics,Mobile,22662.46,18722.31
+PROD0005,Smartphone 5,Electronics,Mobile,16390.98,10923.14
+PROD0006,Smartphone 6,Electronics,Mobile,5095.3,3637.0
+PROD0007,Smartphone 7,Electronics,Mobile,18976.08,10464.49
+PROD0008,Feature Phone 1,Electronics,Mobile,7145.12,3919.06
+PROD0009,Feature Phone 2,Electronics,Mobile,49609.81,39122.01
+PROD0010,Feature Phone 3,Electronics,Mobile,82559.16,43202.31
+PROD0011,Feature Phone 4,Electronics,Mobile,35919.73,22648.11
+PROD0012,Feature Phone 5,Electronics,Mobile,16044.28,10262.67
+PROD0013,Feature Phone 6,Electronics,Mobile,8195.94,6325.14
+PROD0014,Feature Phone 7,Electronics,Mobile,26219.52,22238.55
+PROD0015,Gaming Laptop 1,Electronics,Laptop,60249.42,44559.16
+PROD0016,Gaming Laptop 2,Electronics,Laptop,53527.31,36684.91
+PROD0017,Gaming Laptop 3,Electronics,Laptop,25641.19,21120.25
+PROD0018,Gaming Laptop 4,Electronics,Laptop,7578.36,4496.78
+PROD0019,Gaming Laptop 5,Electronics,Laptop,7451.63,5075.62
+PROD0020,Gaming Laptop 6,Electronics,Laptop,31587.9,17706.22
+PROD0021,Gaming Laptop 7,Electronics,Laptop,16324.33,11703.31
+PROD0022,Business Laptop 1,Electronics,Laptop,42111.8,32964.74
+PROD0023,Business Laptop 2,Electronics,Laptop,6466.66,3720.05
+PROD0024,Business Laptop 3,Electronics,Laptop,33362.45,19868.21
+PROD0025,Business Laptop 4,Electronics,Laptop,9468.53,5692.15
+PROD0026,Business Laptop 5,Electronics,Laptop,82415.46,61336.86
+PROD0027,Business Laptop 6,Electronics,Laptop,6820.74,5102.41
+PROD0028,Business Laptop 7,Electronics,Laptop,36268.94,26442.68
+PROD0029,Headphones 1,Electronics,Audio,54227.46,37241.93
+PROD0030,Headphones 2,Electronics,Audio,56674.37,36762.85
+PROD0031,Headphones 3,Electronics,Audio,3794.59,2491.28
+PROD0032,Headphones 4,Electronics,Audio,19649.28,15805.19
+PROD0033,Headphones 5,Electronics,Audio,56672.09,39916.47
+PROD0034,Headphones 6,Electronics,Audio,76700.55,48251.13
+PROD0035,Headphones 7,Electronics,Audio,36522.85,26475.37
+PROD0036,Earbuds 1,Electronics,Audio,45067.62,37749.15
+PROD0037,Earbuds 2,Electronics,Audio,11897.63,6657.89
+PROD0038,Earbuds 3,Electronics,Audio,75882.63,60211.03
+PROD0039,Earbuds 4,Electronics,Audio,33704.38,17872.6
+PROD0040,Earbuds 5,Electronics,Audio,68132.48,54270.39
+PROD0041,Earbuds 6,Electronics,Audio,64410.27,42262.24
+PROD0042,Earbuds 7,Electronics,Audio,71102.02,53239.89
+PROD0043,Bluetooth Speaker 1,Electronics,Audio,41267.81,24108.35
+PROD0044,Bluetooth Speaker 2,Electronics,Audio,31156.97,21330.8
+PROD0045,Bluetooth Speaker 3,Electronics,Audio,49945.48,34950.45
+PROD0046,Bluetooth Speaker 4,Electronics,Audio,14229.19,9343.47
+PROD0047,Bluetooth Speaker 5,Electronics,Audio,60851.23,47749.27
+PROD0048,Bluetooth Speaker 6,Electronics,Audio,70458.95,45232.01
+PROD0049,Bluetooth Speaker 7,Electronics,Audio,17243.01,12496.05
+PROD0050,Keyboard 1,Electronics,Accessories,28290.66,19313.98
+PROD0051,Keyboard 2,Electronics,Accessories,75265.99,50749.21
+PROD0052,Keyboard 3,Electronics,Accessories,49959.01,26286.8
+PROD0053,Keyboard 4,Electronics,Accessories,55791.32,42534.45
+PROD0054,Keyboard 5,Electronics,Accessories,21682.52,14765.84
+PROD0055,Keyboard 6,Electronics,Accessories,78982.6,46564.83
+PROD0056,Keyboard 7,Electronics,Accessories,61589.72,39153.72
+PROD0057,Mouse 1,Electronics,Accessories,71506.47,37509.92
+PROD0058,Mouse 2,Electronics,Accessories,26067.91,17668.38
+PROD0059,Mouse 3,Electronics,Accessories,52029.82,44117.66
+PROD0060,Mouse 4,Electronics,Accessories,25989.89,17765.67
+PROD0061,Mouse 5,Electronics,Accessories,67254.83,59477.84
+PROD0062,Mouse 6,Electronics,Accessories,37969.64,27881.56
+PROD0063,Mouse 7,Electronics,Accessories,40548.6,30211.45
+PROD0064,Power Bank 1,Electronics,Accessories,43613.67,27855.7
+PROD0065,Power Bank 2,Electronics,Accessories,61131.49,36473.39
+PROD0066,Power Bank 3,Electronics,Accessories,79927.76,63558.21
+PROD0067,Power Bank 4,Electronics,Accessories,3490.2,2550.1
+PROD0068,Power Bank 5,Electronics,Accessories,77806.6,48445.1
+PROD0069,Power Bank 6,Electronics,Accessories,3841.82,2276.65
+PROD0070,Power Bank 7,Electronics,Accessories,39048.57,22574.71
+PROD0071,Mixer Grinder 1,Home & Kitchen,Kitchen,12035.99,8061.69
+PROD0072,Mixer Grinder 2,Home & Kitchen,Kitchen,3001.9,2584.97
+PROD0073,Mixer Grinder 3,Home & Kitchen,Kitchen,31274.89,19548.57
+PROD0074,Mixer Grinder 4,Home & Kitchen,Kitchen,19123.71,12461.68
+PROD0075,Mixer Grinder 5,Home & Kitchen,Kitchen,17272.51,12228.99
+PROD0076,Mixer Grinder 6,Home & Kitchen,Kitchen,27668.88,14728.94
+PROD0077,Mixer Grinder 7,Home & Kitchen,Kitchen,9902.59,5918.76
+PROD0078,Air Fryer 1,Home & Kitchen,Kitchen,18544.86,14961.89
+PROD0079,Air Fryer 2,Home & Kitchen,Kitchen,13466.56,9091.2
+PROD0080,Air Fryer 3,Home & Kitchen,Kitchen,21225.45,12129.48
+PROD0081,Air Fryer 4,Home & Kitchen,Kitchen,1472.93,816.0
+PROD0082,Air Fryer 5,Home & Kitchen,Kitchen,11454.4,8834.41
+PROD0083,Air Fryer 6,Home & Kitchen,Kitchen,13018.54,10910.12
+PROD0084,Air Fryer 7,Home & Kitchen,Kitchen,7010.28,4617.51
+PROD0085,Electric Kettle 1,Home & Kitchen,Kitchen,22516.09,16699.77
+PROD0086,Electric Kettle 2,Home & Kitchen,Kitchen,5977.75,3776.7
+PROD0087,Electric Kettle 3,Home & Kitchen,Kitchen,8055.62,6137.51
+PROD0088,Electric Kettle 4,Home & Kitchen,Kitchen,12811.25,8044.15
+PROD0089,Electric Kettle 5,Home & Kitchen,Kitchen,23715.35,13230.04
+PROD0090,Electric Kettle 6,Home & Kitchen,Kitchen,26744.26,15971.92
+PROD0091,Electric Kettle 7,Home & Kitchen,Kitchen,5729.53,3359.73
+PROD0092,Office Chair 1,Home & Kitchen,Furniture,13876.51,7902.64
+PROD0093,Office Chair 2,Home & Kitchen,Furniture,1613.38,1226.09
+PROD0094,Office Chair 3,Home & Kitchen,Furniture,27005.23,20224.72
+PROD0095,Office Chair 4,Home & Kitchen,Furniture,22651.42,18892.14
+PROD0096,Office Chair 5,Home & Kitchen,Furniture,23587.96,18031.47
+PROD0097,Office Chair 6,Home & Kitchen,Furniture,26490.12,16207.4
+PROD0098,Office Chair 7,Home & Kitchen,Furniture,12505.76,9414.8
+PROD0099,Study Table 1,Home & Kitchen,Furniture,8438.76,4992.36
+PROD0100,Study Table 2,Home & Kitchen,Furniture,14399.31,9913.29
+PROD0101,Study Table 3,Home & Kitchen,Furniture,22583.58,17939.52
+PROD0102,Study Table 4,Home & Kitchen,Furniture,7899.12,5480.1
+PROD0103,Study Table 5,Home & Kitchen,Furniture,7546.81,5735.18
+PROD0104,Study Table 6,Home & Kitchen,Furniture,22537.87,18694.38
+PROD0105,Study Table 7,Home & Kitchen,Furniture,16017.76,10978.5
+PROD0106,Bookshelf 1,Home & Kitchen,Furniture,7940.85,5354.95
+PROD0107,Bookshelf 2,Home & Kitchen,Furniture,17282.94,11436.68
+PROD0108,Bookshelf 3,Home & Kitchen,Furniture,16627.41,10743.52
+PROD0109,Bookshelf 4,Home & Kitchen,Furniture,20211.49,13224.83
+PROD0110,Bookshelf 5,Home & Kitchen,Furniture,26967.99,20634.34
+PROD0111,Bookshelf 6,Home & Kitchen,Furniture,11681.18,6639.73
+PROD0112,Bookshelf 7,Home & Kitchen,Furniture,21992.67,15418.66
+PROD0113,Fan 1,Home & Kitchen,Appliances,13196.62,6945.23
+PROD0114,Fan 2,Home & Kitchen,Appliances,11304.02,8892.05
+PROD0115,Fan 3,Home & Kitchen,Appliances,20129.29,12245.01
+PROD0116,Fan 4,Home & Kitchen,Appliances,5909.03,4782.28
+PROD0117,Fan 5,Home & Kitchen,Appliances,7893.18,4601.73
+PROD0118,Fan 6,Home & Kitchen,Appliances,24547.08,15619.32
+PROD0119,Fan 7,Home & Kitchen,Appliances,16378.97,9545.36
+PROD0120,Iron 1,Home & Kitchen,Appliances,28393.56,23963.81
+PROD0121,Iron 2,Home & Kitchen,Appliances,23851.12,16733.73
+PROD0122,Iron 3,Home & Kitchen,Appliances,18444.76,15909.2
+PROD0123,Iron 4,Home & Kitchen,Appliances,11810.5,8454.12
+PROD0124,Iron 5,Home & Kitchen,Appliances,2168.89,1550.38
+PROD0125,Iron 6,Home & Kitchen,Appliances,10132.57,9008.9
+PROD0126,Iron 7,Home & Kitchen,Appliances,18869.5,11117.7
+PROD0127,Vacuum Cleaner 1,Home & Kitchen,Appliances,32361.72,16962.99
+PROD0128,Vacuum Cleaner 2,Home & Kitchen,Appliances,9979.28,7406.59
+PROD0129,Vacuum Cleaner 3,Home & Kitchen,Appliances,28471.72,17163.87
+PROD0130,Vacuum Cleaner 4,Home & Kitchen,Appliances,7368.47,3993.98
+PROD0131,Vacuum Cleaner 5,Home & Kitchen,Appliances,4675.36,2642.72
+PROD0132,Vacuum Cleaner 6,Home & Kitchen,Appliances,1897.08,1110.55
+PROD0133,Vacuum Cleaner 7,Home & Kitchen,Appliances,12768.4,7585.0
+PROD0134,Shirt 1,Fashion,Men,1850.85,1230.5
+PROD0135,Shirt 2,Fashion,Men,2003.18,1583.67
+PROD0136,Shirt 3,Fashion,Men,4710.06,3156.16
+PROD0137,Shirt 4,Fashion,Men,3371.49,2203.93
+PROD0138,Shirt 5,Fashion,Men,2664.62,1942.13
+PROD0139,Shirt 6,Fashion,Men,1160.4,842.89
+PROD0140,Shirt 7,Fashion,Men,4793.64,3301.54
+PROD0141,Jeans 1,Fashion,Men,3608.45,2206.94
+PROD0142,Jeans 2,Fashion,Men,765.59,625.32
+PROD0143,Jeans 3,Fashion,Men,1958.38,1445.54
+PROD0144,Jeans 4,Fashion,Men,2109.36,1333.37
+PROD0145,Jeans 5,Fashion,Men,1732.78,1326.2
+PROD0146,Jeans 6,Fashion,Men,3774.48,2993.54
+PROD0147,Jeans 7,Fashion,Men,3845.46,2498.76
+PROD0148,T-Shirt 1,Fashion,Men,756.21,517.52
+PROD0149,T-Shirt 2,Fashion,Men,3923.68,2751.49
+PROD0150,T-Shirt 3,Fashion,Men,3823.35,2865.03
+PROD0151,T-Shirt 4,Fashion,Men,2659.23,1373.45
+PROD0152,T-Shirt 5,Fashion,Men,3302.0,2715.24
+PROD0153,T-Shirt 6,Fashion,Men,940.55,633.58
+PROD0154,T-Shirt 7,Fashion,Men,5281.96,2918.02
+PROD0155,Jacket 1,Fashion,Men,4400.06,2541.09
+PROD0156,Jacket 2,Fashion,Men,2227.64,1435.01
+PROD0157,Jacket 3,Fashion,Men,4828.0,4056.98
+PROD0158,Jacket 4,Fashion,Men,1298.94,926.62
+PROD0159,Jacket 5,Fashion,Men,1811.26,1116.07
+PROD0160,Jacket 6,Fashion,Men,3170.75,1939.39
+PROD0161,Jacket 7,Fashion,Men,1911.14,1523.34
+PROD0162,Saree 1,Fashion,Women,2602.07,1528.05
+PROD0163,Saree 2,Fashion,Women,4025.28,2731.95
+PROD0164,Saree 3,Fashion,Women,1393.48,1073.23
+PROD0165,Saree 4,Fashion,Women,2776.76,2094.71
+PROD0166,Saree 5,Fashion,Women,4676.83,3841.05
+PROD0167,Saree 6,Fashion,Women,2644.2,1727.1
+PROD0168,Saree 7,Fashion,Women,1255.0,972.65
+PROD0169,Kurti 1,Fashion,Women,4693.87,3102.2
+PROD0170,Kurti 2,Fashion,Women,3039.64,1734.67
+PROD0171,Kurti 3,Fashion,Women,1569.11,1201.01
+PROD0172,Kurti 4,Fashion,Women,1639.43,1024.43
+PROD0173,Kurti 5,Fashion,Women,1007.58,844.31
+PROD0174,Kurti 6,Fashion,Women,4736.88,2725.35
+PROD0175,Kurti 7,Fashion,Women,959.93,721.65
+PROD0176,Jeans 1,Fashion,Women,1840.93,1033.04
+PROD0177,Jeans 2,Fashion,Women,1136.33,878.81
+PROD0178,Jeans 3,Fashion,Women,3930.24,3183.75
+PROD0179,Jeans 4,Fashion,Women,3533.14,2033.29
+PROD0180,Jeans 5,Fashion,Women,4700.97,2471.92
+PROD0181,Jeans 6,Fashion,Women,1139.13,769.85
+PROD0182,Jeans 7,Fashion,Women,2612.01,1771.46
+PROD0183,Dress 1,Fashion,Women,573.72,322.93
+PROD0184,Dress 2,Fashion,Women,2582.07,1794.63
+PROD0185,Dress 3,Fashion,Women,2237.03,1736.36
+PROD0186,Dress 4,Fashion,Women,949.55,572.18
+PROD0187,Dress 5,Fashion,Women,4026.46,3274.6
+PROD0188,Dress 6,Fashion,Women,2912.2,1507.92
+PROD0189,Dress 7,Fashion,Women,2883.34,1840.43
+PROD0190,Running Shoes 1,Fashion,Footwear,3026.49,2166.42
+PROD0191,Running Shoes 2,Fashion,Footwear,2543.08,1939.86
+PROD0192,Running Shoes 3,Fashion,Footwear,853.36,495.35
+PROD0193,Running Shoes 4,Fashion,Footwear,1519.91,1081.96
+PROD0194,Running Shoes 5,Fashion,Footwear,1309.6,822.5
+PROD0195,Running Shoes 6,Fashion,Footwear,1288.54,944.16
+PROD0196,Running Shoes 7,Fashion,Footwear,1370.56,811.0
+PROD0197,Sandals 1,Fashion,Footwear,3379.16,2730.92
+PROD0198,Sandals 2,Fashion,Footwear,2031.69,1596.46
+PROD0199,Sandals 3,Fashion,Footwear,5104.34,2805.66
+PROD0200,Sandals 4,Fashion,Footwear,2207.15,1565.07
+PROD0201,Sandals 5,Fashion,Footwear,1270.48,896.44
+PROD0202,Sandals 6,Fashion,Footwear,3687.88,2639.93
+PROD0203,Sandals 7,Fashion,Footwear,3050.9,2239.17
+PROD0204,Formal Shoes 1,Fashion,Footwear,880.67,494.16
+PROD0205,Formal Shoes 2,Fashion,Footwear,2513.72,1978.82
+PROD0206,Formal Shoes 3,Fashion,Footwear,4463.12,3610.76
+PROD0207,Formal Shoes 4,Fashion,Footwear,2488.83,1562.24
+PROD0208,Formal Shoes 5,Fashion,Footwear,4857.73,3900.34
+PROD0209,Formal Shoes 6,Fashion,Footwear,2341.8,1564.37
+PROD0210,Formal Shoes 7,Fashion,Footwear,1454.74,1142.13
+PROD0211,Face Wash 1,Beauty,Skincare,2875.47,1729.73
+PROD0212,Face Wash 2,Beauty,Skincare,1279.48,1048.82
+PROD0213,Face Wash 3,Beauty,Skincare,781.26,573.34
+PROD0214,Face Wash 4,Beauty,Skincare,682.08,489.11
+PROD0215,Face Wash 5,Beauty,Skincare,528.8,322.87
+PROD0216,Face Wash 6,Beauty,Skincare,3003.47,2077.81
+PROD0217,Face Wash 7,Beauty,Skincare,1949.13,1208.85
+PROD0218,Moisturizer 1,Beauty,Skincare,798.55,579.49
+PROD0219,Moisturizer 2,Beauty,Skincare,2186.35,1429.19
+PROD0220,Moisturizer 3,Beauty,Skincare,1719.76,1178.77
+PROD0221,Moisturizer 4,Beauty,Skincare,2499.77,1953.28
+PROD0222,Moisturizer 5,Beauty,Skincare,378.68,233.91
+PROD0223,Moisturizer 6,Beauty,Skincare,2815.68,1947.53
+PROD0224,Moisturizer 7,Beauty,Skincare,1758.47,1469.12
+PROD0225,Sunscreen 1,Beauty,Skincare,986.23,797.45
+PROD0226,Sunscreen 2,Beauty,Skincare,499.12,390.29
+PROD0227,Sunscreen 3,Beauty,Skincare,1492.96,855.78
+PROD0228,Sunscreen 4,Beauty,Skincare,944.65,613.11
+PROD0229,Sunscreen 5,Beauty,Skincare,1935.54,1545.97
+PROD0230,Sunscreen 6,Beauty,Skincare,1814.66,1195.56
+PROD0231,Sunscreen 7,Beauty,Skincare,1845.13,1152.69
+PROD0232,Shampoo 1,Beauty,Haircare,1939.54,1300.84
+PROD0233,Shampoo 2,Beauty,Haircare,1122.72,720.26
+PROD0234,Shampoo 3,Beauty,Haircare,218.61,118.4
+PROD0235,Shampoo 4,Beauty,Haircare,3135.18,2190.82
+PROD0236,Shampoo 5,Beauty,Haircare,1085.89,854.69
+PROD0237,Shampoo 6,Beauty,Haircare,2719.84,2158.05
+PROD0238,Shampoo 7,Beauty,Haircare,2754.59,1537.31
+PROD0239,Hair Oil 1,Beauty,Haircare,453.33,289.94
+PROD0240,Hair Oil 2,Beauty,Haircare,458.2,260.72
+PROD0241,Hair Oil 3,Beauty,Haircare,764.06,574.62
+PROD0242,Hair Oil 4,Beauty,Haircare,873.26,527.87
+PROD0243,Hair Oil 5,Beauty,Haircare,674.77,499.55
+PROD0244,Hair Oil 6,Beauty,Haircare,692.02,456.16
+PROD0245,Hair Oil 7,Beauty,Haircare,3082.69,1624.5
+PROD0246,Conditioner 1,Beauty,Haircare,3097.64,2034.9
+PROD0247,Conditioner 2,Beauty,Haircare,2992.33,1806.15
+PROD0248,Conditioner 3,Beauty,Haircare,2694.68,1895.94
+PROD0249,Conditioner 4,Beauty,Haircare,1612.79,893.36
+PROD0250,Conditioner 5,Beauty,Haircare,2190.06,1296.7
+PROD0251,Conditioner 6,Beauty,Haircare,1580.34,1333.01
+PROD0252,Conditioner 7,Beauty,Haircare,2585.81,1813.36
+PROD0253,Lipstick 1,Beauty,Makeup,1935.89,1130.14
+PROD0254,Lipstick 2,Beauty,Makeup,1797.28,1506.99
+PROD0255,Lipstick 3,Beauty,Makeup,993.75,813.9
+PROD0256,Lipstick 4,Beauty,Makeup,1730.42,1360.53
+PROD0257,Lipstick 5,Beauty,Makeup,1971.94,1102.17
+PROD0258,Lipstick 6,Beauty,Makeup,1129.22,760.47
+PROD0259,Lipstick 7,Beauty,Makeup,610.15,406.59
+PROD0260,Foundation 1,Beauty,Makeup,2833.28,1947.56
+PROD0261,Foundation 2,Beauty,Makeup,1971.36,1279.96
+PROD0262,Foundation 3,Beauty,Makeup,696.94,518.87
+PROD0263,Foundation 4,Beauty,Makeup,2467.6,1287.09
+PROD0264,Foundation 5,Beauty,Makeup,1024.82,766.52
+PROD0265,Foundation 6,Beauty,Makeup,1967.91,1105.46
+PROD0266,Foundation 7,Beauty,Makeup,2061.49,1591.41
+PROD0267,Mascara 1,Beauty,Makeup,554.68,355.21
+PROD0268,Mascara 2,Beauty,Makeup,1377.84,937.68
+PROD0269,Mascara 3,Beauty,Makeup,1581.65,1113.21
+PROD0270,Mascara 4,Beauty,Makeup,2236.44,1616.3
+PROD0271,Mascara 5,Beauty,Makeup,1720.89,1212.9
+PROD0272,Mascara 6,Beauty,Makeup,1735.83,1212.77
+PROD0273,Mascara 7,Beauty,Makeup,3098.13,2176.99
+PROD0274,Yoga Mat 1,Sports,Fitness,2785.88,1950.99
+PROD0275,Yoga Mat 2,Sports,Fitness,2820.26,1677.06
+PROD0276,Yoga Mat 3,Sports,Fitness,2015.39,1385.93
+PROD0277,Yoga Mat 4,Sports,Fitness,3590.37,2146.09
+PROD0278,Yoga Mat 5,Sports,Fitness,4819.62,3567.91
+PROD0279,Yoga Mat 6,Sports,Fitness,2242.48,1623.96
+PROD0280,Yoga Mat 7,Sports,Fitness,6727.24,5512.05
+PROD0281,Dumbbells 1,Sports,Fitness,7043.17,4199.75
+PROD0282,Dumbbells 2,Sports,Fitness,4444.77,2624.23
+PROD0283,Dumbbells 3,Sports,Fitness,4264.09,2855.05
+PROD0284,Dumbbells 4,Sports,Fitness,4021.4,3025.5
+PROD0285,Dumbbells 5,Sports,Fitness,8230.72,5838.4
+PROD0286,Dumbbells 6,Sports,Fitness,1070.08,786.17
+PROD0287,Dumbbells 7,Sports,Fitness,6466.07,5079.71
+PROD0288,Resistance Bands 1,Sports,Fitness,2740.83,1862.75
+PROD0289,Resistance Bands 2,Sports,Fitness,9910.66,8044.86
+PROD0290,Resistance Bands 3,Sports,Fitness,2156.68,1419.9
+PROD0291,Resistance Bands 4,Sports,Fitness,6048.15,4236.03
+PROD0292,Resistance Bands 5,Sports,Fitness,6868.26,4796.18
+PROD0293,Resistance Bands 6,Sports,Fitness,3913.89,3217.17
+PROD0294,Resistance Bands 7,Sports,Fitness,8134.76,4312.1
+PROD0295,Cricket Bat 1,Sports,Outdoor,8601.05,6084.79
+PROD0296,Cricket Bat 2,Sports,Outdoor,3407.74,2087.41
+PROD0297,Cricket Bat 3,Sports,Outdoor,4930.03,2734.39
+PROD0298,Cricket Bat 4,Sports,Outdoor,1417.26,878.29
+PROD0299,Cricket Bat 5,Sports,Outdoor,4129.59,2819.28
+PROD0300,Cricket Bat 6,Sports,Outdoor,1777.5,1505.78
+PROD0301,Cricket Bat 7,Sports,Outdoor,5026.1,3186.73
+PROD0302,Football 1,Sports,Outdoor,5198.02,2824.86
+PROD0303,Football 2,Sports,Outdoor,2838.73,2180.59
+PROD0304,Football 3,Sports,Outdoor,417.39,318.15
+PROD0305,Football 4,Sports,Outdoor,6599.81,4601.58
+PROD0306,Football 5,Sports,Outdoor,8381.66,5918.69
+PROD0307,Football 6,Sports,Outdoor,6776.42,6033.37
+PROD0308,Football 7,Sports,Outdoor,5089.49,2886.57
+PROD0309,Badminton Racket 1,Sports,Outdoor,8765.33,6722.0
+PROD0310,Badminton Racket 2,Sports,Outdoor,7931.4,4469.84
+PROD0311,Badminton Racket 3,Sports,Outdoor,5729.87,4181.31
+PROD0312,Badminton Racket 4,Sports,Outdoor,8432.28,7102.32
+PROD0313,Badminton Racket 5,Sports,Outdoor,1426.8,812.66
+PROD0314,Badminton Racket 6,Sports,Outdoor,5408.72,4067.95
+PROD0315,Badminton Racket 7,Sports,Outdoor,3470.84,1779.25
+PROD0316,Helmet 1,Sports,Cycling,8227.14,5429.02
+PROD0317,Helmet 2,Sports,Cycling,7716.85,5282.9
+PROD0318,Helmet 3,Sports,Cycling,6167.04,3710.79
+PROD0319,Helmet 4,Sports,Cycling,10340.34,6010.76
+PROD0320,Helmet 5,Sports,Cycling,3279.24,2522.51
+PROD0321,Helmet 6,Sports,Cycling,5560.98,3120.17
+PROD0322,Helmet 7,Sports,Cycling,5187.08,2817.73
+PROD0323,Cycling Gloves 1,Sports,Cycling,8611.61,6723.97
+PROD0324,Cycling Gloves 2,Sports,Cycling,3786.36,2852.01
+PROD0325,Cycling Gloves 3,Sports,Cycling,4022.63,3400.39
+PROD0326,Cycling Gloves 4,Sports,Cycling,6973.63,3703.5
+PROD0327,Cycling Gloves 5,Sports,Cycling,6819.91,4456.87
+PROD0328,Cycling Gloves 6,Sports,Cycling,9232.08,5863.66
+PROD0329,Cycling Gloves 7,Sports,Cycling,3366.94,2019.57
+PROD0330,Water Bottle 1,Sports,Cycling,7189.98,5487.01
+PROD0331,Water Bottle 2,Sports,Cycling,5801.59,3723.73
+PROD0332,Water Bottle 3,Sports,Cycling,5595.61,4674.62
+PROD0333,Water Bottle 4,Sports,Cycling,3203.47,2503.09
+PROD0334,Water Bottle 5,Sports,Cycling,6939.12,4699.11
+PROD0335,Water Bottle 6,Sports,Cycling,441.11,271.71
+PROD0336,Water Bottle 7,Sports,Cycling,7079.05,4580.35
