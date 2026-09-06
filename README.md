@@ -230,7 +230,7 @@ Main SQL file:
 sql/business_analysis.sql
 ```
 
-## Power BI Dashboard
+## 📊 Power BI Dashboard
 
 The Power BI dashboard is organized into four analytical pages:
 
@@ -242,19 +242,6 @@ The Power BI dashboard is organized into four analytical pages:
 ### Executive Overview
 
 ![Executive Overview](screenshots/executive-overview.PNG)
-
-### Category & Product Analysis
-
-![Category & Product Analysis](screenshots/category-product-analysis.PNG)
-
-### Customer Analysis
-
-![Customer Analysis](screenshots/customer-analysis.PNG)
-
-### Regional Analysis
-
-![Regional Analysis](screenshots/regional-analysis.PNG)
-### 1. Executive Overview
 
 Provides a management-level view of:
 
@@ -269,7 +256,9 @@ Provides a management-level view of:
 - Regional performance
 - Order status distribution
 
-### 2. Category & Product Analysis
+### Category & Product Analysis
+
+![Category & Product Analysis](screenshots/category-product-analysis.PNG)
 
 Provides:
 
@@ -279,7 +268,9 @@ Provides:
 - Top 10 products by realized sales
 - Category and year filtering
 
-### 3. Customer Analysis
+### Customer Analysis
+
+![Customer Analysis](screenshots/customer-analysis.PNG)
 
 Provides:
 
@@ -290,7 +281,9 @@ Provides:
 - Customer KPIs
 - Age-group filtering
 
-### 4. Regional Analysis
+### Regional Analysis
+
+![Regional Analysis](screenshots/regional-analysis.PNG)
 
 Provides:
 
@@ -339,22 +332,34 @@ ecommerce-business-analytics
 │   ├── build_master_dataset.py
 │   ├── category_region_analysis.py
 │   ├── category_year_analysis.py
+│   ├── check_product_mapping.py
+│   ├── clean_data.py
 │   ├── customer_analysis.py
+│   ├── data_quality_check.py
+│   ├── electronics_analysis.py
 │   ├── generate_data.py
+│   ├── inspect_data.py
 │   ├── kpi_analysis.py
-│   └── ...
+│   ├── load_sqlite.py
+│   ├── validate_clean_data.py
+│   ├── validate_master_dataset.py
+│   ├── verify_sqlite.py
+│   └── yearly_analysis.py
 │
 ├── reports
 │
 ├── screenshots
-│   ├── executive-overview.png
-│   ├── category-product-analysis.png
-│   ├── customer-analysis.png
-│   └── regional-analysis.png
+│   ├── executive-overview.PNG
+│   ├── category-product-analysis.PNG
+│   ├── customer-analysis.PNG
+│   └── regional-analysis.PNG
 │
 ├── sql
 │   └── business_analysis.sql
 │
+├── .gitignore
+├── LICENSE
+├── requirements.txt
 └── README.md
 ```
 
@@ -364,49 +369,50 @@ ecommerce-business-analytics
 
 ```bash
 git clone https://github.com/swadhinbgp-sketch/ecommerce-business-analytics.git
-cd ECommerce_Business_Analytics
+cd ecommerce-business-analytics
 ```
 
-### 2. Install dependencies
-
-Create and activate a virtual environment, then install the Python packages required by the analysis scripts.
-
-Example:
+### 2. Create and activate a virtual environment
 
 ```bash
 python -m venv venv
 venv\Scripts\activate
-pip install pandas numpy
 ```
 
-### 3. Generate the raw datasets
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Generate the raw datasets
 
 ```bash
 python python/generate_data.py
 ```
 
-### 4. Inspect and check data quality
+### 5. Inspect and check data quality
 
 ```bash
 python python/inspect_data.py
 python python/data_quality_check.py
 ```
 
-### 5. Clean and validate the data
+### 6. Clean and validate the data
 
 ```bash
 python python/clean_data.py
 python python/validate_clean_data.py
 ```
 
-### 6. Build and validate the master dataset
+### 7. Build and validate the master dataset
 
 ```bash
 python python/build_master_dataset.py
 python python/validate_master_dataset.py
 ```
 
-### 7. Run Python analysis
+### 8. Run Python analysis
 
 ```bash
 python python/kpi_analysis.py
@@ -417,14 +423,14 @@ python python/customer_analysis.py
 python python/electronics_analysis.py
 ```
 
-### 8. Build the SQLite database
+### 9. Build and verify the SQLite database
 
 ```bash
 python python/load_sqlite.py
 python python/verify_sqlite.py
 ```
 
-### 9. Run the SQL analysis
+### 10. Run the SQL analysis
 
 The SQL queries are stored in:
 
@@ -432,13 +438,13 @@ The SQL queries are stored in:
 sql/business_analysis.sql
 ```
 
-The database is:
+The SQLite database is:
 
 ```text
 data/ecommerce.db
 ```
 
-### 10. Open the Power BI dashboard
+### 11. Open the Power BI dashboard
 
 Open:
 
@@ -476,6 +482,7 @@ This project demonstrates practical skills in:
 - Power BI dashboard development
 - Business insight generation
 - Data storytelling
+- Git and GitHub version control
 
 ## 👤 Author
 
