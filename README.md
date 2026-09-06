@@ -230,10 +230,30 @@ Main SQL file:
 sql/business_analysis.sql
 ```
 
-## 📈 Power BI Dashboard
+## Power BI Dashboard
 
-The Power BI report contains **four interactive pages**:
+The Power BI dashboard is organized into four analytical pages:
 
+1. Executive Overview
+2. Category & Product Analysis
+3. Customer Analysis
+4. Regional Analysis
+
+### Executive Overview
+
+![Executive Overview](screenshots/executive-overview.PNG)
+
+### Category & Product Analysis
+
+![Category & Product Analysis](screenshots/category-product-analysis.PNG)
+
+### Customer Analysis
+
+![Customer Analysis](screenshots/customer-analysis.PNG)
+
+### Regional Analysis
+
+![Regional Analysis](screenshots/regional-analysis.PNG)
 ### 1. Executive Overview
 
 Provides a management-level view of:
@@ -302,49 +322,38 @@ powerbi/ECommerce_Business_Analytics.pbix
 ## 📁 Project Structure
 
 ```text
-ECommerce_Business_Analytics/
+ecommerce-business-analytics
 │
-├── data/
-│   ├── raw/
-│   │   ├── customers.csv
-│   │   ├── products.csv
-│   │   └── orders.csv
-│   │
-│   └── cleaned/
-│       ├── customers_clean.csv
-│       ├── products_clean.csv
-│       ├── orders_clean.csv
-│       └── sales_master.csv
+├── data
+│   ├── cleaned
+│   └── raw
 │
-├── docs/
+├── docs
 │   ├── business_requirements.md
 │   └── data_dictionary.md
 │
-├── powerbi/
+├── powerbi
 │   └── ECommerce_Business_Analytics.pbix
 │
-├── python/
-│   ├── generate_data.py
-│   ├── inspect_data.py
-│   ├── data_quality_check.py
-│   ├── clean_data.py
-│   ├── validate_clean_data.py
+├── python
 │   ├── build_master_dataset.py
-│   ├── validate_master_dataset.py
-│   ├── kpi_analysis.py
-│   ├── yearly_analysis.py
 │   ├── category_region_analysis.py
 │   ├── category_year_analysis.py
 │   ├── customer_analysis.py
-│   ├── electronics_analysis.py
-│   ├── check_product_mapping.py
-│   ├── load_sqlite.py
-│   └── verify_sqlite.py
+│   ├── generate_data.py
+│   ├── kpi_analysis.py
+│   └── ...
 │
-├── sql/
+├── reports
+│
+├── screenshots
+│   ├── executive-overview.png
+│   ├── category-product-analysis.png
+│   ├── customer-analysis.png
+│   └── regional-analysis.png
+│
+├── sql
 │   └── business_analysis.sql
-│
-├── reports/
 │
 └── README.md
 ```
