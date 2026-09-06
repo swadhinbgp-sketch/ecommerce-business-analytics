@@ -363,7 +363,7 @@ ecommerce-business-analytics
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/swadhinbgp-sketch/ecommerce-business-analytics.git
 cd ECommerce_Business_Analytics
 ```
 
